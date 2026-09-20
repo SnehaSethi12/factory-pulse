@@ -2,7 +2,6 @@
 
 A full data integration pipeline that models factory production and downtime data in MySQL, surfaces insights through Apache Superset dashboards and native alerts, and includes a standalone Python service replicating the alert logic outside the BI layer.
 
-Built as a project submission for the **Golgix Data Integration Engineer** role (SQL + BI + Python, with React as an extension path).
 
 ---
 
