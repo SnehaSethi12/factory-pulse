@@ -2,7 +2,6 @@
 
 A full data integration pipeline that models factory production and downtime data in MySQL, surfaces insights through Apache Superset dashboards and native alerts, and includes a standalone Python service replicating the alert logic outside the BI layer.
 
-Built as a project submission for the **Golgix Data Integration Engineer** role (SQL + BI + Python, with React as an extension path).
 
 ---
 
@@ -85,6 +84,8 @@ The **Manufacturing Analytics** dashboard in Superset combines four distinct cha
 | Downtime Intensity Heatmap | Heatmap | Machine × week grid, colored by rolling downtime severity — quickly spots chronic problem machines |
 
 ![alt text](<Screenshot 2026-09-20 224114.png>)
+<img width="1533" height="861" alt="image" src="https://github.com/user-attachments/assets/03c6dc96-f7d2-429f-993e-399eaf2406f0" />
+<img width="1510" height="797" alt="Screenshot 2026-09-20 233815" src="https://github.com/user-attachments/assets/3260e649-8c12-4e2c-8b44-2c4c90f2324c" />
 
 ---
 
@@ -99,7 +100,8 @@ Example output:
 ```
 [2026-09-20 22:59:52] ALERT: CNC-Mill-01 — 150 min downtime in last 24h (threshold: 120)
 ```
-![alt text](<Screenshot 2026-09-20 230018.png>)
+<img width="1920" height="1080" alt="Screenshot 2026-09-20 230018" src="https://github.com/user-attachments/assets/75eba246-f67d-403d-8ec7-91038afa3cdb" />
+
 ---
 
 
