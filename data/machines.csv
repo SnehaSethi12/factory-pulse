@@ -1,0 +1,9 @@
+machine_id,machine_name,machine_type,install_date,line_id
+1,CNC-Mill-01,CNC,2021-07-20,L1
+2,CNC-Mill-02,CNC,2021-11-08,L1
+3,Injection-Molder-01,Molding,2021-05-07,L2
+4,Injection-Molder-02,Molding,2021-10-19,L2
+5,Assembly-Line-A,Assembly,2021-07-11,L3
+6,Assembly-Line-B,Assembly,2021-11-24,L3
+7,Packaging-Unit-01,Packaging,2021-05-04,L4
+8,Welding-Robot-01,Welding,2021-08-24,L2
