@@ -85,6 +85,7 @@ The **Manufacturing Analytics** dashboard in Superset combines four distinct cha
 | Downtime Intensity Heatmap | Heatmap | Machine × week grid, colored by rolling downtime severity — quickly spots chronic problem machines |
 
 ![alt text](<Screenshot 2026-09-20 224114.png>)
+<img width="1533" height="861" alt="image" src="https://github.com/user-attachments/assets/03c6dc96-f7d2-429f-993e-399eaf2406f0" />
 
 ---
 
